@@ -28,7 +28,7 @@
     <repository>
         <id>ismail</id>
         <name>ismail-releases</name>
-        <url>http://13.127.229.164:8081/artifactory/list/jenkins/</url>
+        <url>http://13.127.229.164:8081/artifactory/list/ismail2-release/</url>
     </repository>
 </distributionManagement>
 
